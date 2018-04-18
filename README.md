@@ -1,2 +1,3 @@
-# standards
-Contains standars we use within our organisation
+# Egeniq standards
+
+This repo contains standards what we use within Egeniq.
